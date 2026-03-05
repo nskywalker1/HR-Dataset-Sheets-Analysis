@@ -1,4 +1,4 @@
-<img width="1251" height="568" alt="image" src="https://github.com/user-attachments/assets/3ecf4ab3-5541-424d-a088-02bceceec101" />
+
 
 # 🚪 Employee Attrition Analysis Dashboard (HR Insights)
 
@@ -13,11 +13,16 @@ The goal is to provide HR managers with data-backed evidence to improve retentio
 
 Based on the dashboard data, I have identified several critical factors contributing to employee turnover:
 
-* **The "Early Career" Gap:** There is a significant spike in attrition among employees aged **25–34**. This group is often looking for rapid career growth; if they don't find it here, they leave.
-* **Tenure Risk:** With an average tenure of **7 years**, the company struggles to keep talent beyond the mid-term mark.
-* **Salary Influence:** A critical finding is that the **majority of attritions occur among employees earning less than $5,000 per month**. This strongly suggests that compensation levels for junior and mid-level roles are not competitive enough, leading to dissatisfaction and higher turnover.
-* **Economic Dissatisfaction:** The correlation between low income and high attrition indicates that financial incentives are a primary driver for employees leaving the company, especially in high-pressure roles.
-* **Why do beginners leave?**
+ **The "Early Career" Gap:** There is a significant spike in attrition among employees aged **25–34**. This group is often looking for rapid career growth; if they don't find it here, they leave.
+ **Tenure Risk:** With an average tenure of **7 years**, the company struggles to keep talent beyond the mid-term mark.
+ **Salary Influence:** A critical finding is that the **majority of attritions occur among employees earning less than $5,000 per month**. This strongly suggests that compensation levels for junior and mid-level roles are not competitive enough, leading to dissatisfaction and higher turnover.
+ **Economic Dissatisfaction:** The correlation between low income and high attrition indicates that financial incentives are a primary driver for employees leaving the company, especially in high-pressure roles.
+ **Why do beginners leave?**
   1. **Financial Motivation:** New hires often leave for a higher salary at another company after gaining initial experience.
   2. **First Impression:** High turnover in the early stages can mean the onboarding process or "first impression" of the company needs work.
   3. **Career Stepping Stone:** Many juniors use their first role only to gain experience before "job-hopping" for a promotion elsewhere.
+
+## 🚀 How to Access
+* **Interactive Dashboard:** (https://docs.google.com/spreadsheets/d/1EG0mZ7mB3objxef8D7WQVh0U0_th5JqawSG_WVlF03w/edit?usp=sharing)
+* **Static Preview:**
+    <img width="1251" height="568" alt="image" src="https://github.com/user-attachments/assets/3ecf4ab3-5541-424d-a088-02bceceec101" />
